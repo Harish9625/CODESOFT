@@ -1,2 +1,2 @@
 # CODESOFT
-I have created a project on Jupyter Notebook using Python for data science.
+These are data science projects using Python
